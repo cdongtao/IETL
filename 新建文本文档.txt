@@ -1,0 +1,42 @@
+线图(Line Graphs)：
+	(字数：26)引言：The line graph provided meticulously delineates the dynamic changes observed in (主题) over a specific period of (时间). Upon initial observation, it is strikingly evident that (总观点). 
+	(字数：42)主体：The graph commences at (描述起始点), setting the stage for the subsequent developments. As the timeline progresses, a distinct trend of (描述变化) emerges, shaping the trajectory of the graph. The period concludes with (描述结束点), marking a significant point in the overall trend. 
+	(字数：18)结论：In essence, the graph provides a comprehensive overview of (总结全文), highlighting the key trends and developments over the given period. 
+
+柱状图(Bar Charts)：
+	(字数：24)引言：The bar chart at hand offers an insightful comparative analysis of the (主题) across a variety of (对比的对象). A cursory glance reveals that (总观点). 
+	(字数：31)主体：A closer examination of the chart reveals (描述细节). In addition to this, another noteworthy point is the fact that (描述更多细节), which adds another layer of complexity to the analysis. 
+	(字数：18)结论：To encapsulate, the bar chart provides a detailed comparison of (总结全文), shedding light on the intricate differences and similarities. 
+
+饼图(Pie Charts)：
+	(字数：26)引言：The pie chart in question provides a detailed breakdown of the distribution of (主题). One of the most salient points to emerge from the chart is that (总观点). 
+	(字数：29)主体：According to the data presented in the chart, (描述细节). Furthermore, it is particularly interesting to note that (描述更多细节), which adds a unique dimension to the overall picture. 
+	(字数：17)结论：In summary, the pie chart offers a comprehensive overview of (总结全文), highlighting the key segments and their respective proportions. 
+
+表格(Table)：
+	 (字数：27)引言：The table presents a wealth of data on (主题) in (时间/地点), offering a comprehensive overview of the situation. One of the most striking observations is that (总观点).
+	 (字数：31)主体：A detailed analysis of the table reveals that (描述细节). Moreover, another intriguing point that emerges from the data is that (描述更多细节), which adds further depth to the analysis.
+	(字数：17)结论：In conclusion, the table provides a detailed and nuanced picture of (总结全文), highlighting the key trends and patterns. 
+
+流程图(Process Diagrams)：
+	(字数：23)引言：The diagram provides a step-by-step breakdown of the process involved in (主题), starting with (开始步骤) and culminating in (结束步骤). 
+	(字数：31)主体：The process kicks off with (描述开始). This is followed by a series of steps involving (描述中间步骤). The process reaches its conclusion with (描述结束步骤), marking the end of the journey. 
+	(字数：20)结论：Overall, the diagram provides a detailed and comprehensive overview of the process of (总结全文), highlighting the sequence of steps from start to finish. 
+
+地图(Maps)：
+	(字数：27)引言：The maps provide a visual representation of the transformation that has taken place in (地点) over a period of (时间). The most dramatic change that can be observed is (总观点). 
+	(字数：34)主体：In the initial period, the landscape was characterized by (描述开始). As the years rolled by, significant changes took place, including (描述变化). By the final period, the landscape had evolved into (描述结束). 
+	(字数：17)结论：To wrap up, the maps provide a vivid illustration of the dramatic transformation of (总结全文) over the given period. 
+	
+	饼图(Pie Charts)：
+	引言：The pie chart in question provides a detailed breakdown of the distribution of (主题). One of the most salient points to emerge from the chart is that (总观点). 
+	主体：According to the data presented in the chart, (描述细节). Furthermore, it is particularly interesting to note that (描述更多细节), which adds a unique dimension to the overall picture. 
+	结论：In summary, the pie chart offers a comprehensive overview of (总结全文), highlighting the key segments and their respective proportions. 
+
+根据我给出雅思小作文模板，根据下面所有条件的执行
+英文表达下面3点，不要出现中文：
+	1. 模给出作文题目，生成范文要满足雅思规则9分及范文单词总字数在145和165之间，注意不包括标点符号
+	3. 在每一段开头出分别统计所有不包括标点符号和包括标点符号单词字数
+	4.自非模板部分文章放在**之间
+中文表达下面1点
+	5.单独生产一段中文翻译，模给出作文题目，尽可能列出题目所有详细信息，我可以单独对比

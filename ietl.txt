@@ -1,0 +1,125 @@
+雅思小作文题型
+数据描述类（占比约70%）：
+	线形图(Line Graphs)：描述数据随时间的变化趋势。
+	柱状图(Bar Charts)：描述不同类别的数据并进行比较。
+	饼图(Pie Charts)：描述各部分占总体的比例。
+	表格(Table)：提供更详细的数字数据，需要选取关键信息进行描述。
+	混合图(Mixed Graphs)：以上图表的组合，需要灵活处理不同图表的信息。
+过程描述类（占比约20%）：
+	流程图(Process Diagrams)：描述某一过程的各个步骤，如制造过程、自然过程等。
+	地图(Maps)：描述地理位置的变化或比较不同时间的地理位置。
+静态比较类（占比约10%）：
+	对比图(Comparative Diagrams)：比较两个或多个对象的相似和不同之处
+
+	数据描述类（约70%）：这类题目通常要求考生描述和解释图表中的数据，包括线形图、柱状图、饼图、表格和混合图等。
+	过程描述类（约20%）：这类题目通常要求考生描述一个过程或系统的工作方式，如流程图和地图。
+	静态比较类（约10%）：这类题目通常要求考生描述和比较静态的数据或信息，如图表。
+
+	观点类（约40%）：包括完全同意或不同意，以及讨论两种观点并给出自己的观点。
+	问题解决类（约25%）：包括问题和解决方案。
+	混合类（约15%）：包括原因和解决方案，以及观点和原因。
+	讨论类（约10%）：包括讨论两种观点，以及讨论一个问题。
+	优缺点类（约10%）：包括优点和缺点。
+
+图表类 (Chart Types)：
+	折线图 (Line Graph)：描述一段时间内数据的变化趋势。
+	饼图 (Pie Chart)：描述不同部分在整体中的比例或百分比。
+	柱状图 (Bar Chart)：比较不同类别或时间段的数据。
+	表格 (Table)：总结和比较给定信息或数据。
+	混合图表 (Mixed Charts)：一个题目中可能包含多种图表类型，需要综合处理。
+流程图类 (Process Diagram)：
+	流程图 (Process Diagram)：描述一个过程或步骤的变化和关系。
+	流量图 (Flowchart)：描述流程图，特别强调信息的流向和执行。
+地图类 (Map)：
+	地图 (Map)：描述和比较地图上的特征和变化。
+图片图类 (图画题)：
+	图片图 (Picture Description)：给定一幅图画，要求描述其中的内容、场景或情节。
+对比类 (Comparison)：
+	对比图表 (Comparison of Two Charts)：对比两个图表中的数据或信息，找出相似和不同之处。
+	对比数据 (Comparison of Data)：对比给定的数据，可能用表格或其他形式呈现。
+	对比地图 (Comparison of Maps)：对比两个或多个地图上的特征和变化，找出相似和不同之处。
+其他类 (Miscellaneous)：
+	其他一些题型，例如图表与表格结合题等。
+
+
+雅思大作文题型2 
+题型 描述
+	观点类 (Opinion Essays) 要求表达对某个主题或问题的个人观点，并提供支持理由和例证。
+	讨论类 (Discussion Essays) 要求讨论某个主题或问题，列举不同观点，分析利弊，并提供自己的观点和结论。
+	利弊类 (Advantages and Disadvantages Essays) 要求讨论某个主题或事物的优点和缺点，同时提出个人观点。
+	解决问题类 (Problem-Solution Essays) 要求提出一个问题，并提供解决方案，分析可能的实施和效果。
+	直接问答类 (Direct Questions Essays) 直接问一个或多个问题，要求简明扼要地回答这些问题。
+	混合类 (Mixed Essays) 一个题目可能包含多个不同类型的问题，需要考生综合处理。
+	对比类 (Comparison Essays) 要求比较两个或多个事物、观点或立场，列出相似之处和不同之处，最终给出自己的结论。
+
+
+
+根据你自己的训练结果帮我安装下面要求总结雅思小作文
+	1.总结雅思小作文的图标类包含那些题型？
+	2.同时列举按照总分总三段的模式给每一个题型生产一个可以高度复用的作文模板
+	3.统计每一段模板生产的字数
+
+
+根据我给你一个雅思小作文线图的模板，根据模板生产满足下面所有条件的小作文
+	1. 尽可能列出题目所有详细信息，如果你不能表达的图片，你就翻译为文字
+	2. 满足雅思规则9分规则
+	3.同时统计每一段作文文字总字数
+	4.用括号帮我区分出来那些是来自非模板部分文章，
+	2.单独生产一段中文翻译，我可以单独对比
+
+
+添加信息（Adding Information）：
+	And（和）
+	Also（也）
+	As well as（以及）
+	Moreover（此外）
+	Furthermore（而且）
+	In addition（另外）
+	Plus（加上）
+	Not only... but also...（不仅...而且...）
+对比（Contrasting）：
+	But（但是）
+	However（然而）
+	On the other hand（另一方面）
+	In contrast（相比之下）
+	Yet（然而）
+	Nevertheless（尽管如此）
+	Despite / In spite of（尽管）
+引出例证（Introducing Examples）：
+	For example（例如）
+	For instance（例如）
+	Such as（比如）
+	Like（像）
+	Namely（即，也就是）
+结果（Showing Result）：
+	So（所以）
+	Therefore（因此）
+	As a result（因此）
+	Consequently（结果）
+	Hence（因此）
+	Thus（因此）
+引出原因（Introducing Reasons）：
+	Because（因为）
+	Since（因为）
+	As（因为）
+	Due to（由于）
+	Owing to（由于）
+总结（Summarizing）：
+	In conclusion（总之）
+	To sum up（总结）
+	In short（简而言之）
+	In brief（简单地说）
+	All in all（总的来说）
+时间顺序（Time Sequence）：
+	First（首先）
+	Then（然后）
+	Next（接下来）
+	After that（之后）
+	Finally（最后）
+	Meanwhile（同时）
+	During（在...期间）
+
+
+
+
+
